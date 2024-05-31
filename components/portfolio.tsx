@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
+import Image from "next/image"
 import { SheetTrigger, SheetContent, Sheet } from "@/components/ui/sheet"
 
 export default function Portfolio() {
@@ -7,7 +8,7 @@ export default function Portfolio() {
     <div className="flex flex-col min-h-[100dvh]">
       <header className="bg-gray-900 text-white py-4 px-6 md:px-10 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <img
+          <Image
             alt="Aymen Bensoltana"
             className="rounded-full"
             height={40}
