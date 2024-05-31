@@ -9,7 +9,7 @@
     "baseColor": "gray",
     "cssVariables": false
   },
-  "aliases": {
+  "aliases": {$
     "utils": "@/lib/utils",
     "components": "@/components"
   }

@@ -60,18 +60,18 @@ export default function Portfolio() {
             <div>
               <h2 className="text-3xl font-bold mb-4">About Me</h2>
               <p className="text-gray-600 dark:text-gray-400 mb-4">
-                Hi, I'm Aymen Bensoltana, a passionate and versatile full-stack developer with a diverse range of skills
-                in web development, mobile development, desktop applications, data science, and machine learning. I'm
+                Hi, I&apos;m Aymen Bensoltana, a passionate and versatile full-stack developer with a diverse range of skills
+                in web development, mobile development, desktop applications, data science, and machine learning. I&apos;
                 dedicated to creating innovative and user-friendly solutions that solve real-world problems.
               </p>
               <p className="text-gray-600 dark:text-gray-400 mb-4">
-                I hold a Bachelor's degree in Computer Science from the University of California, Berkeley, where I
+                I hold a Bachelor&apos;s degree in Computer Science from the University of California, Berkeley, where I
                 honed my technical skills and developed a deep understanding of computer science principles. Throughout
-                my academic and professional journey, I've had the opportunity to work on a wide range of projects, from
+                my academic and professional journey, I&apos;ve had the opportunity to work on a wide range of projects, from
                 building responsive web applications to developing cutting-edge machine learning models.
               </p>
               <p className="text-gray-600 dark:text-gray-400">
-                I'm constantly exploring new technologies and techniques to stay ahead of the curve, and I'm passionate
+                I&apos;m constantly exploring new technologies and techniques to stay ahead of the curve, and I&apos;m passionate
                 about sharing my knowledge with the community. In my free time, you can find me contributing to
                 open-source projects, attending tech meetups, or exploring the great outdoors.
               </p>
